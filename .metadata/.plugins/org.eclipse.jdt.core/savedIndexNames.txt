@@ -54,7 +54,6 @@ INDEX VERSION 1.132+C:\Users\USER\Downloads\Tron\.metadata\.plugins\org.eclipse.
 2285846211.index
 3773529538.index
 200548840.index
-1622460971.index
 4266175639.index
 491277627.index
 1163307478.index
